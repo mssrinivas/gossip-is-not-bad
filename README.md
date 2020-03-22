@@ -6,8 +6,6 @@
 ![Alt text](Results/Table4.png?raw=true "Table Comparision")
 ![Alt text](Results/Table5.png?raw=true "Table Comparision")
 ![Alt text](Results/Table6.png?raw=true "Table Comparision")
-![Alt text](Results/Table7.png?raw=true "Table Comparision")
-![Alt text](Results/Table8.png?raw=true "Table Comparision")
 
 ## Performance of Async Gossip :
 
