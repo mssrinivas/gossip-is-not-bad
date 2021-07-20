@@ -1,6 +1,5 @@
 ## Implementation and analysis of Gossip Algorithms
 
-![Alt text](Results/Table1.png?raw=true "Table Comparision")
 ![Alt text](Results/Table2.png?raw=true "Table Comparision")
 ![Alt text](Results/Table3.png?raw=true "Table Comparision")
 ![Alt text](Results/Table4.png?raw=true "Table Comparision")
